@@ -1,0 +1,8 @@
+JavaJDk下载 https://blog.csdn.net/siwuxie095/article/details/53386227
+环境变量Path误删 https://blog.csdn.net/qq_41219821/article/details/88070303
+Android Studio配置 
+https://blog.csdn.net/xuw_xy/article/details/89524335?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2
+
+运行问题：
+Android studio虚拟机报错：emulator：PANIC:cannot find AVD system path.please define ANDROID_SDK_ROOThttps://blog.csdn.net/weixin_42717781/article/details/104487834
+ERROR: Unable to access 'C:\Users\鏉庨摥\.emulator_console_auth_token': emulator consol...解决方法：https://blog.csdn.net/qq_46471249/article/details/104729953
